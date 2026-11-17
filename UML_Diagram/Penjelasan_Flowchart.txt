@@ -1,0 +1,13 @@
+1.Mulai: untuk memulai Aplikasi
+2.Login/Daftar
+3.User memilih login atau daftar
+4.JIKA USER MEMILIH DAFTAR= 1.user harus masukan gmail, 
+                            2.User memasukan kata sandi, 
+                            3.User memverifikasi kata sandi
+                            4.User berhasil Log in
+
+5.JIKA MEMILIH LOG IN = 1.User memasukan gmail
+                        2.User memasukan sandi 
+                        -jika sandi salah user akan langsung di kembalikan ke halaman log in/ daftar  
+                        -jika sandi benar User akan Berhasil Log in
+                        3.Log in Berhasil
