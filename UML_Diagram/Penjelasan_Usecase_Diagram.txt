@@ -1,0 +1,20 @@
+
+1. Alur Registrasi (Pembuatan Akun)
+
+Bagian atas diagram menjelaskan langkah-langkah saat pengguna baru mendaftarkan akun:
+• REGISTRASI: Fitur utama untuk memulai pendaftaran.
+• MASUKAN USN: Pengguna menginput username (nama pengguna).
+• MASUKAN EMAIL: Pengguna menginput alamat email aktif.
+• MASUKAN PASSWORD: Pengguna membuat kata sandi.
+• VALIDASI: Sistem memeriksa kelengkapan dan keabsahan data yang dimasukkan.
+• KONFIRMASI PEMBUATAN AKUN: Sistem memberikan konfirmasi bahwa akun berhasil dibuat.
+
+
+2. Alur Login (Masuk ke Sistem)
+
+Bagian bawah diagram menjelaskan proses masuk setelah pengguna memiliki akun:
+• LOGIN: Fitur utama untuk masuk ke dalam aplikasi.
+• MASUKAN USN: Pengguna memasukkan username yang sudah terdaftar.
+• MASUKAN PW: Pengguna memasukkan kata sandi (password).
+• VALIDASI: Sistem mencocokkan username dan password dengan data di database.
+• AKSES HALAMAN UTAMA: Jika validasi berhasil, pengguna diarahkan masuk ke beranda atau halaman utama sistem.
